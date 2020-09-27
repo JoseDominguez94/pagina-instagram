@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family:"Dancing Script";
+}
+.cabecera{
+    padding: -15px;
+    margin:  0px;
+}
+main {
+    font-size: 16px;
+}
+b {
+    font-size: 18px;
+}
+
+b:hover {
+    font-size: 18px;
+    color: lightblue;
+}
+.Luis-Suarez {
+    margin-left: 25px;
+    margin-top: -10px;
+}
+
+.Foto-Prin {
+    margin-left: -10px;
+}
+.debajo-foto {
+    margin-left: 5px;
+}
+.icons{
+    margin-left: 5px;
+}
+footer{
+    color: lightgray;
+    font-size: 14px;
+}
